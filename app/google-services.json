@@ -1,0 +1,159 @@
+{
+  "project_info": {
+    "project_number": "353717669107",
+    "firebase_url": "https://testurbanairship-ce4cf.firebaseio.com",
+    "project_id": "testurbanairship-ce4cf",
+    "storage_bucket": "testurbanairship-ce4cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353717669107:android:e9943252970249be",
+        "android_client_info": {
+          "package_name": "com.urbanairship.sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353717669107-e3p2i2j8pgrcl81m6lsgssje9vd2uvhq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.urbanairship.sample",
+            "certificate_hash": "a75cb460b0a49bb8e2ca8f0724eb1032b341796b"
+          }
+        },
+        {
+          "client_id": "353717669107-a13bpat2fngatrri0euf1fmooj1joara.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVUNzl7bmq2HAw27D6Ucfefpl3HIpyw-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353717669107-a13bpat2fngatrri0euf1fmooj1joara.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353717669107:android:f387ee2b32709b9c",
+        "android_client_info": {
+          "package_name": "com.yudha.kodokmebur"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353717669107-0g54rcci0o86b2hbucr296jtpt84as2o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yudha.kodokmebur",
+            "certificate_hash": "a75cb460b0a49bb8e2ca8f0724eb1032b341796b"
+          }
+        },
+        {
+          "client_id": "353717669107-a13bpat2fngatrri0euf1fmooj1joara.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVUNzl7bmq2HAw27D6Ucfefpl3HIpyw-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353717669107-a13bpat2fngatrri0euf1fmooj1joara.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353717669107:android:ba56786e6ee919d5",
+        "android_client_info": {
+          "package_name": "com.yudha.kodokterbang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353717669107-hol1j5fubt6con2k66bo4ls0losie942.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yudha.kodokterbang",
+            "certificate_hash": "a75cb460b0a49bb8e2ca8f0724eb1032b341796b"
+          }
+        },
+        {
+          "client_id": "353717669107-a13bpat2fngatrri0euf1fmooj1joara.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVUNzl7bmq2HAw27D6Ucfefpl3HIpyw-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353717669107-a13bpat2fngatrri0euf1fmooj1joara.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353717669107:android:d4176e4b56bdf3ca",
+        "android_client_info": {
+          "package_name": "com.yudha.uaduck"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353717669107-0be45f69t8k5h92052l995sjcbd8lg4j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yudha.uaduck",
+            "certificate_hash": "a75cb460b0a49bb8e2ca8f0724eb1032b341796b"
+          }
+        },
+        {
+          "client_id": "353717669107-a13bpat2fngatrri0euf1fmooj1joara.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVUNzl7bmq2HAw27D6Ucfefpl3HIpyw-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353717669107-a13bpat2fngatrri0euf1fmooj1joara.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
